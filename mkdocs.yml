@@ -46,7 +46,7 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/mastodon
+    - icon: fontawesome/brands/github
       link: https://github.com/BiliBiliJackSteve
       name: My Github homepage
 
