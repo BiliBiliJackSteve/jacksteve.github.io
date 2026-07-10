@@ -5,9 +5,10 @@ site_author: Jack_Steve
 site_description: my first site
 
 nav:
-  - Notes:
+  - 笔记:
+    - notes/考研知识.md
     - notes/danq.md
-  - Testing:
+  - 测试:
     - notes/Untitled-1.md
 
 theme:
@@ -40,6 +41,7 @@ theme:
 plugins:
   - blog
   - tags
+  - search
 
 
 copyright: 2025 - 2026 Jack_Steve

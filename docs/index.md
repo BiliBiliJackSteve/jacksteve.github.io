@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# 欢迎来到Jack_Steve的个人网站
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这里会有本人的笔记以及其它好玩的东西
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+如果想要回到这个页面，按网站左上角的图标即可
