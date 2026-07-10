@@ -6,9 +6,9 @@ site_description: my first site
 
 theme:
   palette:
-    scheme: default
-    primary: grey
-    accent: amber
+    - scheme: default
+      primary: grey
+      accent: amber
 
     #toggle for light mode
     - scheme: default
