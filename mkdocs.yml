@@ -4,15 +4,11 @@ site_url: https://bilibilijacksteve.github.io/site/
 site_author: Jack_Steve
 site_description: my first site
 
-plugins:
-  - blog
-  - tags
-
 nav:
-  - 笔记：
+  - 笔记:
     - notes/考研知识.md
     - notes/danq.md
-  - 测试：
+  - 测试:
     - notes/Untitled-1.md
 
 theme:
@@ -34,6 +30,10 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
   
-  language: zh
+    language: zh
 
-  copyright: Copyright &copy; 2025 - 2026 Jack_Steve
+plugins:
+  - tags
+
+
+copyright: 2025 - 2026 Jack_Steve
